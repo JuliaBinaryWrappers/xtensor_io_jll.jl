@@ -1,0 +1,6 @@
+[xtensor_io]
+git-tree-sha1 = "0a09a9d6fcf05d56692f3ff42560b775028849ec"
+
+    [[xtensor_io.download]]
+    sha256 = "a59dafab0b348522d5b34727aca3a85fda1d07b7daf599f409d0aeb168a82d84"
+    url = "https://github.com/JuliaBinaryWrappers/xtensor_io_jll.jl/releases/download/xtensor_io-v0.13.0+0/xtensor_io.v0.13.0.any.tar.gz"

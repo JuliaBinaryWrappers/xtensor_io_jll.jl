@@ -1,0 +1,20 @@
+name = "xtensor_io_jll"
+uuid = "a56137cc-9937-5467-96f1-bf8abe647212"
+version = "0.13.0+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
+OpenImageIO_jll = "fd470f6e-6842-5666-8cbd-b5630dfbbd08"
+Blosc_jll = "0b7ba130-8d10-5ba8-a3d6-c5182647fed9"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.6"
+Zlib_jll = "1.2.12"
+OpenImageIO_jll = "2.5.11"
+Blosc_jll = "1.21.1"
+Libdl = "1"
+Artifacts = "1"
